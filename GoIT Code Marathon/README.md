@@ -14,4 +14,5 @@ Start 2023-03-23 / Finish 2023-03-30
 Used tools HTML/CSS, VISUAL STUDIO CODE, FIGMA
 
 Result <br>
-[CV Project of John Doe](https://cv-project-john-doe.netlify.app/)
+### My first CV site
+[CV Joanna Kozar](https://cv-joannakozar.netlify.app/)
